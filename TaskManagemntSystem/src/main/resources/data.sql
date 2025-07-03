@@ -1,0 +1,1 @@
+INSERT INTO TASK VALUES(2, 'Hi','CompleteTASK'),(4,'Well','DoTask');
