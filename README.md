@@ -12,18 +12,21 @@ A basic task management web application built using Spring Boot, providing full 
 
 2. Authentication
 Basic HTTP Authentication is enabled. Add the following to your request headers:
+
 Username: radha
 Password: welcome
 
-3. Run the Application
+4. Run the Application
 
 mvn spring-boot:run
 
 4. Access Endpoints
+   
 H2 Console (if enabled): http://localhost:8080/h2-console
+
 API Base URL: http://localhost:8080/api/tasks
 
-5. API Endpoints
+6. API Endpoints
    
 Method	  Endpoint	        Description
 
